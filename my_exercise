@@ -1,0 +1,10 @@
+
+i = 0
+sum = 0
+
+while i < 100:
+    sum += 1
+    print(num)
+    sum += i
+    
+    i += 1
